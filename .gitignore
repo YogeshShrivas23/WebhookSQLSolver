@@ -1,0 +1,26 @@
+# Maven / Java / Spring Boot
+/target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+/.vscode/
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+# Eclipse
+*.classpath
+*.project
+*.settings/
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+# VS Code
+/.vscode/
+# Jar folder
+/jar/*.jar
